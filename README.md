@@ -7,9 +7,9 @@ Link to deployed application: https://stormy-mesa-84948.herokuapp.com/
 
 ### Description: 
 
-<ul>
-    This Application helps you to keep track of your budget online and off. While offline your transactions are stored in the indexDB of your web browser. Then when       you are connected to the internet again, the stored transactions are automatically updated to a mongoDB Atlas database. 
-</ul>
+
+This Application helps you to keep track of your budget online and off. While offline your transactions are stored in the indexDB of your web browser. Then when       you are connected to the internet again, the stored transactions are automatically updated to a mongoDB Atlas database. 
+
 
 ### Table of Contents
 * [Usage](#usage)
@@ -22,9 +22,9 @@ Link to deployed application: https://stormy-mesa-84948.herokuapp.com/
 ![demo](public/assets/images/example.gif)
 
 ### License
-<ul>
-    This application is covered under the MIT License
-</ul>
+
+This application is covered under the MIT License
+
 
 ### Contributors:
 
